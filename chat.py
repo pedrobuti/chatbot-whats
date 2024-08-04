@@ -3,9 +3,9 @@
 from twilio.rest import Client
 
 # Autenticação do twilio
-account_sid = "id twilio"
-auth_token = "token de autorização"
-client = Client(account_sid, auth_token)
+# sid da conta
+# auth_token da conta
+client = Client(sid_conta, auth_token_conta)
 
 # Envio de mensagem
 message = client.messages.create(

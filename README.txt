@@ -1,5 +1,6 @@
-Utilizado a plataforma Twilio 
+Utilizado a plataforma Botpress
 
-Bibliotecas nescessárias:
+API do Whatsapp Business
 
-pip install twilio
+
+
